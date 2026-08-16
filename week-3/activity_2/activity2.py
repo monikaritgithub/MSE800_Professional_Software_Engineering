@@ -1,0 +1,11 @@
+file = open("junk.txt", "r")
+
+#lines = file.readlines()
+text = file.read()
+file.close()
+text=text.lower()
+file=open("junk.txt", "w")
+#print("Total number of lines:", len(lines))
+#file.write("\ntext file nanalyssis")
+file.write(text)
+file.close()
