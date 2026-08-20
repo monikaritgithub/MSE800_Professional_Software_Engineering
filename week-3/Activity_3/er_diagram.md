@@ -23,4 +23,4 @@ Two additional attributes can be added to the **Student** entity:
 
 * **Lecturer – Lectures – Subjects:** A lecturer teaches subjects. A lecturer can teach one or more subjects, and a subject can be taught by lecturers according to the university's teaching arrangement.
 
-Overall, the ER diagram shows how student, enrolment, lecture, lecturer, and subject information is connected in a university database.
+
